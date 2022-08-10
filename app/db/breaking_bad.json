@@ -1,0 +1,29 @@
+{
+	"info": {
+		"count": 0,
+		"pages": 0,
+		"next": "",
+		"prev": ""
+	},
+	"results": [
+		{
+			"id": 1,
+			"name": "Walter Hartwell White",
+			"status": "unknown",
+			"gender": "Male",
+			"origin": {
+				"name": "USA",
+				"url": ""
+			},
+			"location": {
+				"name": "Albuquerque, New Mexico",
+				"url": ""
+			},
+			"image": "https://scripto-api.com/api/character/character/avatar/1.jpeg",
+			"episode": [
+			],
+			"url": "https://scripto-api.com/api/breakingbad/character/1",
+			"created": "2017-11-04T22:39:48.055Z"
+		}
+    ]
+}
