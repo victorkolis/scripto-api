@@ -11,3 +11,8 @@ This is an API any TV Series
 
 ## Current Release
 *release/0_0_1*
+
+
+## Source
+
+The webpage whereof we do collect the data is https://www.springfieldspringfield.co.uk/
